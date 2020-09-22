@@ -1,14 +1,14 @@
 
-# Tool gor mange Kanban projects, Frontend with React, Backend with Sprin Boot 
+# Tool for manage Kanban projects, Frontend with React, Backend with Sprin Boot 
 
-# Create Project
+Create Project
 
 ![cover](toReadme/r1.png)
 
-# WProject Dashboard
+ Project Dashboard
 
 ![cover](toReadme/r2.png)
 
-# You can udpate and delete your tasks.
+You can update and delete your tasks.
 
 ![cover](toReadme/r3.png)
